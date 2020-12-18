@@ -486,12 +486,12 @@
                                       <Component id="jLabel1" min="-2" pref="178" max="-2" attributes="0"/>
                                       <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
                                   </Group>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="kButton10" min="-2" pref="172" max="-2" attributes="0"/>
-                                      <EmptySpace max="32767" attributes="0"/>
-                                  </Group>
                                   <Component id="jPanel11" alignment="0" max="32767" attributes="0"/>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <EmptySpace max="32767" attributes="0"/>
+                                      <Component id="kButton10" min="-2" pref="172" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="742" max="-2" attributes="0"/>
+                                  </Group>
                               </Group>
                             </DimensionLayout>
                             <DimensionLayout dim="1">
@@ -502,9 +502,9 @@
                                           <Component id="jLabel1" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
                                           <Component id="jComboBox1" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
                                       </Group>
-                                      <EmptySpace pref="268" max="32767" attributes="0"/>
+                                      <EmptySpace pref="285" max="32767" attributes="0"/>
                                       <Component id="kButton10" min="-2" pref="74" max="-2" attributes="0"/>
-                                      <EmptySpace min="-2" pref="54" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
                                       <Component id="jPanel11" min="-2" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
